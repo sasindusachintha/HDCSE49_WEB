@@ -14,3 +14,15 @@ Proper planning and design ensure that the system:
 ---
 
 # 1. Web Terminology
+
+Below are important web-related terms:
+
+## Website
+A collection of web pages accessible through the internet using a domain name.
+
+## Web Application
+An interactive website that allows users to perform actions such as login, submitting forms, and managing data.
+
+## URL (Uniform Resource Locator)
+The address used to access a web resource.
+
