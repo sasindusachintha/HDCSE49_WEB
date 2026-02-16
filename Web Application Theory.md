@@ -44,3 +44,23 @@ Server-side logic and database handling.
 
 ## Database
 Stores structured data.
+
+--- 
+
+# 2. Web Standards
+Web standards are rules and guidelines that ensure website work properly across different browsers and devices.
+
+## Main Organization
+- W3C (World Wide Web Consortium)
+- WHATWG
+
+## Key Web Standards
+- HTML - Structure of web pages
+- CSS - Styling and layout
+- JavaScript - Interactivity
+- Accessibilty standards(WCAG)
+- SEO standards
+
+## Importance of Web Standards
+
+
