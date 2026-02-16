@@ -62,5 +62,60 @@ Web standards are rules and guidelines that ensure website work properly across 
 - SEO standards
 
 ## Importance of Web Standards
+- Cross-browser compatibility
+- Better performance
+- Improved accessibility
+- Maintainability
+- Security
 
+---
 
+#  3. Web Client
+A web client is the system or application that requests services from a web server.
+
+Examples:
+- Web browser
+- Mobile apps
+- Desktop applications
+
+Roles:
+- Sends requests to the server.
+- Displays received data.
+- Executes client-side scripts.
+
+---
+
+# 4. Web Server
+A web server is a system that stores, processes, and delivers web pages to clients.
+Examples:
+- Apache
+- Nginx
+- Microsoft IIS
+
+Responsibilities: 
+- Handle client requests
+- Run server-side scripts
+- Connect to databases
+- Send responses(HTML, JSON, files)
+
+---
+
+# 5. Web Browser
+A web browser is software used to access and view websites.
+Examples: 
+- Google Chrome
+- Mozilla FireFox
+- Microsoft Edge
+- Safari
+
+Functions:
+- Interpret HTML
+- Apply CSS styling
+- Execute JavaScript
+- Display web pages
+- Store cookies and cache
+
+---
+
+# 6. Static Website
+A static website contains fixed content.
