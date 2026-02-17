@@ -119,3 +119,23 @@ Functions:
 
 # 6. Static Website
 A static website contains fixed content.
+
+Features:
+- Built using HTML and CSS
+- No database
+- Same content for all users
+- Fast loading
+
+Advantages:
+- Simple to build
+- Low cost
+- High security
+- Fast performance
+
+Disadvantage:
+- No interactivity
+- Hard to update frequently
+- Not suitable for complex systems
+
+Example:
+Company profile website
