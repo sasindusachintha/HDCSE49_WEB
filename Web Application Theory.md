@@ -139,3 +139,30 @@ Disadvantage:
 
 Example:
 Company profile website
+
+# 7. Dynamic Website
+A dynamic website generates content based on user interaction or database data.
+
+Features:
+- Uses server-side programming
+- Connected to database
+- Personalized content
+
+Advantages:
+- Interactive
+- Real-time updates
+- Suitable for organizations
+
+Disadvantages:
+- More complex
+- Higher cost
+- equires maintenance
+
+Example:
+- E-commerce website
+- Online banking system
+- Hospital management system
+
+---
+
+# 8.Main Phases of Developing a Website
