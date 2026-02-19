@@ -167,3 +167,26 @@ Example:
 
 # 8.Main Phases of Developing a Website
 Developing a web application follows structured phases:
+
+---
+
+## Phase 1: Requirement Analysis
+- Identify organizational needs
+- Gather user requirements
+- Define system objectives
+- Identify stakeholders
+
+Output: Requirement Specification Document
+
+---
+
+## Phase 2: Planning
+- Define project scope
+- Timeline and budget planning
+- Technology selection
+- Resource allocation
+
+Output: Project Plan
+
+---
+
