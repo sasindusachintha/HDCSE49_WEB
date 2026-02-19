@@ -166,3 +166,4 @@ Example:
 ---
 
 # 8.Main Phases of Developing a Website
+Developing a web application follows structured phases:
