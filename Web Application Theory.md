@@ -194,3 +194,8 @@ Output: Project Plan
 
 ### UI/UX Design
 - Wireframes
+- Mockups
+- Navigation structure
+
+
+-
