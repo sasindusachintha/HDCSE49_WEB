@@ -197,5 +197,15 @@ Output: Project Plan
 - Mockups
 - Navigation structure
 
+---
 
--
+### System Architecture design
+- Client-server architecture
+- Backend development
+- Database design (ER diagrams)
+- API development
+
+ --- 
+### Phase 5: Testing
+ 
+
