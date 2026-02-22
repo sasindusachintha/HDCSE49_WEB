@@ -190,3 +190,7 @@ Output: Project Plan
 
 ---
 
+## Phase 3: System Design
+
+### UI/UX Design
+- Wireframes
