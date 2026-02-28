@@ -221,12 +221,24 @@ Output: Project Plan
  - System Testing
  - User Acceptance Testing (UAT)
 
----
-
 Purpose:- 
 - Detect bugs
 - Ensure functionality
 - check performance and security
 
+---
 
+### Phase 6: Deployment
+- Hosting setup
+- Domain configuration
+- Database setup
+- Production launch
+
+---
+
+### Phase 7: Maintenance
+- Bug fixes
+- Performance updates
+- Security updates
+- Feature enhancements
 
