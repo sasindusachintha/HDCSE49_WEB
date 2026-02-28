@@ -206,6 +206,27 @@ Output: Project Plan
 - API development
 
  --- 
+
+### Phase 4: Development
+- Frontend Development
+- Backend development
+- Database intergration
+- API development
+
+---
+
 ### Phase 5: Testing
- 
+ - Unit Testing
+ - Intergration Testing
+ - System Testing
+ - User Acceptance Testing (UAT)
+
+---
+
+Purpose:- 
+- Detect bugs
+- Ensure functionality
+- check performance and security
+
+
 
