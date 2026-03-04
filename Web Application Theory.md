@@ -261,3 +261,17 @@ Web design best practices are guidelines used to create websites that are user-f
 - Optimize images and videos
 - Use clean and efficient code
 - Reduce unnecessary scripts
+
+## 4. Consistent Design
+- Use consistent colors, fonts, and layouts
+- Maintain brand identity throughout the website
+
+## 5. Readable Content
+- Use clear fonts and proper font sizes
+- Maintain good contrast between text and background
+- Use headings and spacing for readability
+
+## 6. Accessibility
+- Website should be usable by people with disabilities
+- Provide alternative text for images
+- Use proper semantic HTML structure
