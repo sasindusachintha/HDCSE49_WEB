@@ -257,4 +257,7 @@ Web design best practices are guidelines used to create websites that are user-f
 - Website should work properly on mobiles, tablets, and desktops
 - Layout automatically adjusts to screen size
 
-
+## 3. Fast Loading Speed
+- Optimize images and videos
+- Use clean and efficient code
+- Reduce unnecessary scripts
