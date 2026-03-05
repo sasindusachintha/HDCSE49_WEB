@@ -275,3 +275,12 @@ Web design best practices are guidelines used to create websites that are user-f
 - Website should be usable by people with disabilities
 - Provide alternative text for images
 - Use proper semantic HTML structure
+
+## 7. Clear Call-to-Action (CTA)
+- Buttons like “Buy Now”, “Contact Us”, or “Register”
+- Guide users toward desired actions
+
+## 8. Security
+- Use HTTPS encryption
+- Protect user data
+- Secure login systems
