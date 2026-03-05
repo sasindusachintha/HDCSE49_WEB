@@ -284,3 +284,15 @@ Web design best practices are guidelines used to create websites that are user-f
 - Use HTTPS encryption
 - Protect user data
 - Secure login systems
+
+## 9. SEO Optimization
+- Proper headings and keywords
+- Optimized page titles and meta descriptions
+- Mobile-friendly structure
+
+## 10. Regular Maintenance
+- Update content regularly
+- Fix broken links
+- Improve performance continuously
+
+---
