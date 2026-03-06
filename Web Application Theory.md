@@ -305,3 +305,14 @@ A website is one of the most powerful digital marketing tools for organizations 
 - Business is available even outside working hours
 
 ## 2. Global Reach
+- Organizations can reach customers worldwide
+- Expands business opportunities
+
+## 3. Brand Awareness
+- Helps build brand identity and credibility
+- Professional websites increase customer trust
+
+## 4. Cost-Effective Marketing
+- Cheaper than traditional advertising methods
+- Reduces printing and promotional costs
+
