@@ -296,3 +296,12 @@ Web design best practices are guidelines used to create websites that are user-f
 - Improve performance continuously
 
 ---
+
+# Importance of Having a Website as a Marketing Tool
+A website is one of the most powerful digital marketing tools for organizations because it helps promote products and services globally.
+
+## 1. 24/7 Online Presence
+- Customers can access information anytime
+- Business is available even outside working hours
+
+## 2. Global Reach
