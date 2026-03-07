@@ -316,3 +316,12 @@ A website is one of the most powerful digital marketing tools for organizations 
 - Cheaper than traditional advertising methods
 - Reduces printing and promotional costs
 
+## 5. Product and Service Promotion
+- Showcase products with images, descriptions, and prices
+- Easy to update promotions and offers
+
+## 6. Customer Communication
+- Contact forms, chat systems, and email integration
+- Improves customer engagement
+
+
