@@ -384,5 +384,17 @@ Examples:
 
 ---
 
+# Evaluating Websites
+Website evaluation is the process of analyzing how effectively a website meets its purpose, user needs, and performance standards.
+
+## 1. Usability
+- Easy navigation and clear structure
+- Users can find information quickly
+- Simple and understandable interface
+
+## 2. Performance
+- Fast loading speed
+- Optimized images and scripts
+- Minimal downtime
 
 
