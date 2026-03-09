@@ -462,3 +462,41 @@ A good website design improves user satisfaction and helps achieve business obje
 - Good contrast between text and background
 - Easy-to-read typography
 
+---
+
+# UI/UX Design
+UI (User Interface) and UX (User Experience) design focus on improving how users interact with a website or web application.
+
+## User Interface (UI)
+UI refers to the visual elements users interact with.
+
+### UI Components
+- Buttons
+- Forms
+- Menus
+- Icons
+- Layouts and colors
+
+### Goals of UI Design
+- Attractive appearance
+- Consistency
+- Easy interaction
+
+## User Experience (UX)
+UX focuses on overall user satisfaction while using the system.
+
+### UX Principles
+- Easy navigation
+- Fast interaction
+- Logical workflow
+- User-centered design
+
+### UX Process
+1. User research
+2. Wireframing
+3. Prototyping
+4. Usability testing
+5. Improvement
+
+---
+
