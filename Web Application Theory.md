@@ -442,3 +442,23 @@ A good website design improves user satisfaction and helps achieve business obje
 ## 3. Responsive Design
 - Adapts to different screen sizes
 - Mobile-friendly interface
+
+## 4. Visual Consistency
+- Same fonts, colors, and design style across pages
+- Maintains brand identity
+
+## 5. Fast Loading Speed
+- Optimized media files
+- Efficient coding practices
+
+## 6. Quality Content
+- Relevant and informative content
+- Proper headings and formatting
+
+## 7. Clear Call-to-Action (CTA)
+- Buttons such as “Register”, “Buy Now”, or “Contact Us”
+
+## 8. Accessibility and Readability
+- Good contrast between text and background
+- Easy-to-read typography
+
