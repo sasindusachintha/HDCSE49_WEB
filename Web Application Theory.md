@@ -541,3 +541,33 @@ Server-side programming runs on the web server.
 - Data storage and retrieval
 
 ---
+
+---
+
+## Integration Between Client and Server
+- Client sends requests using HTTP/HTTPS
+- Server processes request and accesses database
+- Server sends response back to client
+- Data often exchanged using JSON or XML
+
+Example Flow:
+1. User submits login form
+2. Browser sends data to server
+3. Server validates user credentials
+4. Response returned to browser
+
+---
+
+# Use of Web Authoring Tools to Create Web Content
+
+Web authoring tools help developers and designers create websites efficiently without writing all code manually.
+
+## Types of Web Authoring Tools
+
+### 1. Code Editors
+Used for writing and editing code.
+Examples:
+- Visual Studio Code
+- Sublime Text
+- Notepad++
+
