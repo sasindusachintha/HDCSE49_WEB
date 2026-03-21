@@ -500,3 +500,21 @@ UX focuses on overall user satisfaction while using the system.
 
 ---
 
+# Server-Side and Client-Side Programming and Integration
+
+Web applications work using both client-side and server-side technologies.
+
+## Client-Side Programming
+Client-side programming runs in the user's browser.
+
+### Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Functions
+- User interface design
+- Form validation
+- Interactive elements
+- Dynamic page updates without reloading
+
