@@ -518,3 +518,26 @@ Client-side programming runs in the user's browser.
 - Interactive elements
 - Dynamic page updates without reloading
 
+### Advantages
+- Faster response to user actions
+- Reduced server load
+
+---
+
+## Server-Side Programming
+Server-side programming runs on the web server.
+
+### Technologies
+- PHP
+- Node.js
+- Python
+- Java
+- ASP.NET
+
+### Functions
+- Database operations
+- User authentication
+- Business logic processing
+- Data storage and retrieval
+
+---
