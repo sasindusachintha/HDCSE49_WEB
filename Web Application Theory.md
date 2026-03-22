@@ -571,3 +571,20 @@ Examples:
 - Sublime Text
 - Notepad++
 
+### 2. WYSIWYG Editors (What You See Is What You Get)
+Allow visual design without deep coding knowledge.
+
+Examples:
+- Adobe Dreamweaver
+- Wix Editor
+- WordPress Page Builders
+
+### 3. Content Management Systems (CMS)
+Used to manage website content easily.
+
+Examples:
+- WordPress
+- Joomla
+- Drupal
+
+---
