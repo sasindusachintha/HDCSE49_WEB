@@ -603,3 +603,46 @@ Examples:
 ---
 
 # 1. Basic HTML Tags
+
+HTML (HyperText Markup Language) is used to structure web pages.
+
+## Common Basic Tags
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>This is a paragraph.</p>
+</body>
+</html>
+```
+
+### Important Tags
+- `<html>` – Root element  
+- `<head>` – Metadata section  
+- `<title>` – Page title  
+- `<body>` – Main content  
+- `<h1> to <h6>` – Headings  
+- `<p>` – Paragraph  
+- `<br>` – Line break  
+- `<hr>` – Horizontal line  
+
+---
+
+# 2. Formatting Content
+
+HTML provides tags to format text.
+```html
+<b>Bold</b>
+<i>Italic</i>
+<u>Underline</u>
+<strong>Important text</strong>
+<em>Emphasized text</em>
+<mark>Highlighted</mark>
+<small>Small text</small>
+```
+
+---
