@@ -666,3 +666,52 @@ HTML provides tags to format text.
 ```
 
 ---
+
+# 4. Creating Tables
+
+```html
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>20</td>
+  </tr>
+</table>
+```
+
+---
+
+# 5. Linking Documents
+
+```html
+<a href="https://www.google.com">Visit Google</a>
+```
+
+### Types of Links
+- Internal links  
+- External links  
+- Anchor links  
+
+---
+
+# 6. Creating Forms
+Forms collect user input.
+
+```html
+<form>
+  Name: <input type="text"><br>
+  Email: <input type="email"><br>
+  <input type="submit" value="Submit">
+</form>
+```
+
+### Common Form Elements
+- `<input>`
+- `<textarea>`
+- `<select>`
+- `<button>`
+
+---
