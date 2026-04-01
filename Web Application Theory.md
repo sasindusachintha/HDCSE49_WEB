@@ -646,3 +646,23 @@ HTML provides tags to format text.
 ```
 
 ---
+
+# 3. Creating Lists
+
+## Unordered List
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+```
+
+## Ordered List
+```html
+<ol>
+  <li>First</li>
+  <li>Second</li>
+</ol>
+```
+
+---
