@@ -736,3 +736,18 @@ Forms collect user input.
   <source src="audio.mp3" type="audio/mpeg">
 </audio>
 ```
+
+---
+
+# 8. Controlling Appearance and Design
+
+Appearance is controlled using CSS.
+
+Example:
+```html
+<p style="color: red; font-size: 20px;">Styled text</p>
+```
+
+---
+
+# 9. Styling Techniques
