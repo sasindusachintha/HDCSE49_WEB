@@ -715,3 +715,24 @@ Forms collect user input.
 - `<button>`
 
 ---
+
+# 7. Embedding Media
+
+## Image
+```html
+<img src="image.jpg" alt="Image">
+```
+
+## Video
+```html
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
+```
+
+## Audio
+```html
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg">
+</audio>
+```
