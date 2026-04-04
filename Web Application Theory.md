@@ -771,3 +771,24 @@ p {
 ```
 
 ---
+
+## Style Rules
+
+A style rule consists of:
+
+```
+selector {
+  property: value;
+}
+```
+
+Example:
+```css
+h1 {
+  color: green;
+}
+```
+
+---
+
+## Types of Style Sheets
