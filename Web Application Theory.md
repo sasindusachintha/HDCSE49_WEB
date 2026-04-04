@@ -751,3 +751,23 @@ Example:
 ---
 
 # 9. Styling Techniques
+
+## Introduction to Style Sheets
+
+CSS (Cascading Style Sheets) is used to style HTML elements.
+
+## Style Sheet Basics
+
+- Select elements
+- Apply styles
+- Control layout and design
+
+Example:
+```css
+p {
+  color: blue;
+  font-size: 16px;
+}
+```
+
+---
