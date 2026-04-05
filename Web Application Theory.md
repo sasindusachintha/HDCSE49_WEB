@@ -809,3 +809,33 @@ p { color: blue; }
 ```html
 <link rel="stylesheet" href="style.css">
 ```
+
+## Role of ID and Class
+
+### ID
+- Unique identifier
+- Used once per page
+
+```html
+<p id="title">Hello</p>
+```
+
+```css
+#title {
+  color: red;
+}
+```
+
+### Class
+- Used for multiple elements
+```html
+<p class="text">Hello</p>
+```
+
+```css
+.text {
+  color: blue;
+}
+```
+
+---
