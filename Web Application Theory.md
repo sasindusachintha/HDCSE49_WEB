@@ -792,3 +792,20 @@ h1 {
 ---
 
 ## Types of Style Sheets
+
+### 1. Inline CSS
+```html
+<p style="color:red;">Text</p>
+```
+
+### 2. Internal CSS
+```html
+<style>
+p { color: blue; }
+</style>
+```
+
+### 3. External CSS
+```html
+<link rel="stylesheet" href="style.css">
+```
