@@ -856,3 +856,38 @@ Example:
   }
 }
 ```
+
+## Benefits
+- Mobile-friendly  
+- Better user experience  
+- Improved SEO  
+
+---
+
+# 11. Use of Framework
+Frameworks help build websites faster using pre-built components.
+
+## Types of Frameworks
+
+### Frontend Frameworks
+- Bootstrap  
+- Tailwind CSS  
+- Foundation
+
+### Backend Frameworks
+- Laravel  
+- Django  
+- Express.js  
+
+---
+
+## Advantages of Frameworks
+- Faster development  
+- Reusable code  
+- Built-in components  
+- Responsive design support  
+- Better structure and maintainability  
+
+---
+
+
