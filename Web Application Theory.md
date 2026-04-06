@@ -839,3 +839,20 @@ p { color: blue; }
 ```
 
 ---
+
+# 10. Responsive Web Designing
+Responsive design ensures websites work on all devices.
+
+## Techniques
+- Flexible layouts  
+- Media queries  
+- Responsive images
+
+Example:
+```css
+@media (max-width: 600px) {
+  body {
+    background-color: lightgray;
+  }
+}
+```
