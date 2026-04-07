@@ -901,3 +901,36 @@ Client-side scripting is code that runs in the user's web browser.
 ## Common Language
 - JavaScript
 
+## Uses
+- Create interactive web pages  
+- Validate user input before sending to server  
+- Manipulate HTML and CSS (DOM manipulation)  
+- Handle events (clicks, typing, etc.)  
+- Update content without reloading (AJAX)
+
+## Advantages
+- Faster response (no server request needed)  
+- Reduces server load  
+- Improves user experience  
+
+---
+
+# 2. Introduction to Programming Basics
+
+Programming basics are fundamental concepts used in both client-side and server-side development.
+
+---
+
+## Data Types
+
+Data types define the type of data a variable can store.
+
+### Common Data Types
+- Integer (int) – whole numbers  
+- Float/Double – decimal numbers  
+- String – text  
+- Boolean – true/false  
+- Array – collection of values  
+
+---
+
