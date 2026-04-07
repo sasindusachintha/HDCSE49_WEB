@@ -890,4 +890,14 @@ Frameworks help build websites faster using pre-built components.
 
 ---
 
+# Client-Side and Server-Side Programming Concepts
+
+---
+
+# 1. Use of Client-Side Scripting
+
+Client-side scripting is code that runs in the user's web browser.
+
+## Common Language
+- JavaScript
 
