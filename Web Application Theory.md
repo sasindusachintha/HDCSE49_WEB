@@ -922,7 +922,6 @@ Programming basics are fundamental concepts used in both client-side and server-
 ---
 
 ## Data Types
-
 Data types define the type of data a variable can store.
 
 ### Common Data Types
@@ -934,3 +933,23 @@ Data types define the type of data a variable can store.
 
 ---
 
+## Variables
+Variables store data values.
+
+Example:
+```javascript
+let name = "John";
+let age = 20;
+```
+
+---
+
+## Constants
+Constants are variables whose values cannot be changed.
+
+Example:
+```javascript
+const PI = 3.14;
+```
+
+---
