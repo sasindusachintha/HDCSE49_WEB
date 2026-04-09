@@ -953,3 +953,43 @@ const PI = 3.14;
 ```
 
 ---
+
+## Control Structures
+
+Control structures control the flow of execution.
+
+### 1. Conditional Statements
+```javascript
+if (age > 18) {
+  console.log("Adult");
+} else {
+  console.log("Minor");
+}
+```
+
+### 2. Loops
+```javascript
+for (let i = 0; i < 5; i++) {
+  console.log(i);
+}
+```
+
+---
+
+## Functions
+
+Functions are reusable blocks of code.
+
+### User-Defined Function
+```javascript
+function greet() {
+  console.log("Hello");
+}
+```
+
+### Pre-defined Function
+```javascript
+alert("Welcome");
+```
+
+---
