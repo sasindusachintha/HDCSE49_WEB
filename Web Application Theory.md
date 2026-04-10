@@ -1004,3 +1004,28 @@ button.onclick = function() {
 ```
 
 ---
+
+# 3. Data Validation
+Data validation ensures that user input is correct and secure.
+
+## Types of Validation
+
+- Required field validation  
+- Email format validation  
+- Number validation  
+- Length validation  
+
+Example:
+```javascript
+if (name == "") {
+  alert("Name is required");
+}
+```
+
+## Importance
+- Prevents invalid data  
+- Improves security  
+- Enhances data accuracy  
+
+---
+
