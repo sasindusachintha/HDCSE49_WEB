@@ -979,7 +979,6 @@ for (let i = 0; i < 5; i++) {
 ## Functions
 
 Functions are reusable blocks of code.
-
 ### User-Defined Function
 ```javascript
 function greet() {
@@ -990,6 +989,18 @@ function greet() {
 ### Pre-defined Function
 ```javascript
 alert("Welcome");
+```
+
+---
+
+## Event Handling
+Event handling allows actions when user interacts with the page.
+
+Example:
+```javascript
+button.onclick = function() {
+  alert("Button clicked");
+};
 ```
 
 ---
