@@ -1033,3 +1033,17 @@ if (name == "") {
 
 Server-side technologies run on the web server.
 
+## Examples
+- PHP  
+- Node.js  
+- Python  
+- Java  
+- ASP.NET  
+
+## Uses
+- Process client requests  
+- Handle databases  
+- Perform business logic  
+- Authenticate users  
+
+---
