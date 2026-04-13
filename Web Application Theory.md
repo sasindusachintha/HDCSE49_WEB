@@ -1029,3 +1029,7 @@ if (name == "") {
 
 ---
 
+# 4. Use of Server-Side Technologies
+
+Server-side technologies run on the web server.
+
