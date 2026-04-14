@@ -1066,3 +1066,6 @@ echo "Hello World";
 ---
 
 # 6. Language Basics
+Basic concepts of programming languages used in server-side development.
+
+---
