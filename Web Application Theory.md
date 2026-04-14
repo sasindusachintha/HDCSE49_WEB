@@ -1030,7 +1030,6 @@ if (name == "") {
 ---
 
 # 4. Use of Server-Side Technologies
-
 Server-side technologies run on the web server.
 
 ## Examples
@@ -1047,3 +1046,13 @@ Server-side technologies run on the web server.
 - Authenticate users  
 
 ---
+
+# 5. Use of Server-Side Programming Language
+Server-side programming languages are used to create dynamic websites.
+
+## Functions
+- Data processing  
+- Database interaction  
+- User authentication  
+- Session management
+
