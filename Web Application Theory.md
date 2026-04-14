@@ -1056,3 +1056,13 @@ Server-side programming languages are used to create dynamic websites.
 - User authentication  
 - Session management
 
+Example (PHP):
+```php
+<?php
+echo "Hello World";
+?>
+```
+
+---
+
+# 6. Language Basics
