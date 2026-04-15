@@ -1079,3 +1079,28 @@ echo "Hello";
 ```
 
 ---
+
+## Input and Output
+
+### Input
+- Data entered by user (forms)
+
+### Output
+- Data displayed to user
+
+Example:
+```php
+echo "Welcome User";
+```
+
+---
+
+## Data Types
+Common server-side data types:
+- Integer  
+- Float  
+- String  
+- Boolean  
+- Array  
+
+---
