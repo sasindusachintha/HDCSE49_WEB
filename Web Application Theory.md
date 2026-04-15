@@ -1069,3 +1069,13 @@ echo "Hello World";
 Basic concepts of programming languages used in server-side development.
 
 ---
+
+## Syntax
+Syntax refers to the rules for writing code correctly.
+
+Example:
+```php
+echo "Hello";
+```
+
+---
