@@ -1104,3 +1104,13 @@ Common server-side data types:
 - Array  
 
 ---
+
+## Variables
+Variables store values.
+
+Example:
+```php
+$name = "John";
+```
+
+---
