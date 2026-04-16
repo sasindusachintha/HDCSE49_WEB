@@ -1114,3 +1114,32 @@ $name = "John";
 ```
 
 ---
+
+## Constants
+Constants cannot be changed.
+
+Example:
+```php
+define("PI", 3.14);
+```
+
+---
+
+## Operators
+
+Operators perform operations on variables.
+
+### Types of Operators
+- Arithmetic (+, -, *, /)  
+- Comparison (==, !=, >, <)  
+- Logical (&&, ||)  
+
+Example:
+```php
+$a = 5;
+$b = 3;
+echo $a + $b;
+```
+
+---
+
