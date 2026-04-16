@@ -1143,3 +1143,19 @@ echo $a + $b;
 
 ---
 
+## String Handling
+
+String handling involves working with text.
+
+### Common Operations
+- Concatenation  
+- Length calculation  
+- Searching  
+
+Example:
+```php
+$name = "John";
+echo "Hello " . $name;
+```
+
+---
