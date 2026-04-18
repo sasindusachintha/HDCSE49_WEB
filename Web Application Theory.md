@@ -14,7 +14,6 @@ Proper planning and design ensure that the system:
 ---
 
 # 1. Web Terminology
-
 Below are important web-related terms:
 
 ## Website
