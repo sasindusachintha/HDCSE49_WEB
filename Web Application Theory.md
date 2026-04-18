@@ -245,7 +245,6 @@ Purpose:-
 ---
 
 # Best Practices in Web Design
-
 Web design best practices are guidelines used to create websites that are user-friendly, efficient, attractive, and effective in achieving organizational goals.
 
 ## 1. User-Friendly Navigation
