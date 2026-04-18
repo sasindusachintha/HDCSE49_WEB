@@ -540,8 +540,6 @@ Server-side programming runs on the web server.
 
 ---
 
----
-
 ## Integration Between Client and Server
 - Client sends requests using HTTP/HTTPS
 - Server processes request and accesses database
