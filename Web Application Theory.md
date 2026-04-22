@@ -1138,7 +1138,6 @@ echo $a + $b;
 ---
 
 ## String Handling
-
 String handling involves working with text.
 
 ### Common Operations
