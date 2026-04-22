@@ -950,7 +950,6 @@ const PI = 3.14;
 ---
 
 ## Control Structures
-
 Control structures control the flow of execution.
 
 ### 1. Conditional Statements
